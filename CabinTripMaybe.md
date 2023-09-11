@@ -12,7 +12,7 @@
 
 ## Possible Locations
 
-### [Lakefront ![] (LinkPreview/LakeFrontPreview.png)](https://www.airbnb.com/rooms/51293110?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_t3DKvdDF0dDSy%2Fhm&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
+### [Lakefront ![](LinkPreview/LakeFrontPreview.png)](https://www.airbnb.com/rooms/51293110?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_t3DKvdDF0dDSy%2Fhm&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
 > Location: Lake Limerick
 > 6 Guests <br>
 > Drive Time: 1hr 26 min | 78.1 mi <br>

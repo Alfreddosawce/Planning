@@ -12,7 +12,7 @@
 
 ## Possible Locations
 
-### [Lakefront ![](LinkPreview/LakeFrontPreview.png)](https://www.airbnb.com/rooms/51293110?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_t3DKvdDF0dDSy%2Fhm&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
+### [![](LinkPreview/LakeFrontPreview.png)](https://www.airbnb.com/rooms/51293110?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_t3DKvdDF0dDSy%2Fhm&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
 > Location: Lake Limerick  <br>
 > 6 Guests <br>
 > Drive Time: 1hr 26 min | 78.1 mi <br>
@@ -27,7 +27,7 @@
 
  <br>
 
-### [Waterfront ![](LinkPreview/WaterfrontPreview.png)](https://www.airbnb.com/rooms/49888576?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_YWgAQWJu4tUtvo0U&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
+### [![](LinkPreview/WaterfrontPreview.png)](https://www.airbnb.com/rooms/49888576?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_YWgAQWJu4tUtvo0U&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
 > Location: Lake Cavanaugh <br>
 > Drive Time: 2hr 4 min | 86.5 mi <br>
 > 8 Guests <br>
@@ -57,7 +57,7 @@
 
  <br>
 
-### [River Cabin ![](LinkPreview/RiverCabinPreview.png)](https://www.airbnb.com/rooms/960866073836301145?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_ibszzkxUEqdnn96t&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
+### [![](LinkPreview/RiverCabinPreview.png)](https://www.airbnb.com/rooms/960866073836301145?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_ibszzkxUEqdnn96t&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
 > Location: Gold Bar <br>
 > 8 Guests <br>
 > Drive Time: 1hr 20 min | 59 mi <br>
@@ -72,7 +72,7 @@
 
  <br>
 
-### [Baker Chalet ![](LinkPreview/BakerChaletPreview.png)](https://www.airbnb.com/rooms/15773305?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_DVS%2BZo2NoysSpYNy&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
+### [![](LinkPreview/BakerChaletPreview.png)](https://www.airbnb.com/rooms/15773305?adults=6&check_in=2023-09-22&check_out=2023-09-24&source_impression_id=p3_1694462259_DVS%2BZo2NoysSpYNy&previous_page_section_name=1000&federated_search_id=f3a782d1-2504-49b6-80ea-9bf1553e62c8)
 > Location: Deming <br>
 > 8 Guests <br>
 > Drive Time: 2hr 30 min | 117 mi <br>
